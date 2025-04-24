@@ -1,6 +1,13 @@
 
-Hi there, this is Iman 
+<div align="center" style="border-radius: 10px; padding: 20px; background: #f6f8fa; border: 1px solid #e1e4e8;">
 
+### Hi there, this is Iman 💮  
+
+🚀 **I am a DevOps & Cloud Engineer in Progress**  
+
+💻 I've acquired solid skills in DevOps practices and Cloud technologies,(seee ⬇️),and now I'm focused on deepening that knowledge through hands-on projects.  
+___________________________________________________
+</div>
 
 #### 🔁 DevOps, CI/CD & Versionierung
 🔹 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
@@ -23,6 +30,7 @@ Hi there, this is Iman
 #### 🗄 Datenbanken
 🔹 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
+
 </table>
 
 ---
@@ -30,3 +38,5 @@ Hi there, this is Iman
 ### 📫 Kontakt
 
 **E-Mail:** [imceha@gmail.com](mailto:imceha@gmail.com)  
+
+
