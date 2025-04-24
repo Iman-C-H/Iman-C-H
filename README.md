@@ -6,7 +6,6 @@
 🚀 **I am a DevOps & Cloud Engineer in Progress**  
 
 💻 I've acquired solid skills in DevOps practices and Cloud technologies,(seee ⬇️),and now I'm focused on deepening that knowledge through hands-on projects.  
-___________________________________________________
 
 
 <table>
