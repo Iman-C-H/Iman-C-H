@@ -5,7 +5,7 @@
 
 🚀 **I am a Junior DevOps & Cloud Engineer**  
 
-💻 I've acquired solid skills in DevOps practices and Cloud technologies,(seee ⬇️),and now I'm focused on deepening that knowledge through hands-on projects.  
+💻 I've acquired solid skills in DevOps practices and Cloud technologies,(seee ⬇️) and now I'm focused on deepening that knowledge through hands-on projects.  
 
 
 <table>
